@@ -13,7 +13,6 @@
     "outDir": "./dist",
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
-    "incremental": true,
     "forceConsistentCasingInFileNames": true,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false
